@@ -54,22 +54,6 @@ I specialize in **AI Agents (Voice/Text)**, **LLMs**, **high-performance backend
 
 ---
 
-## 📌 Featured Projects
-- **khudi.ai** – AI platform for content creation  
-- **zehenify.com** – AI tool for psychiatric assessment assistance  
-- **homGPT.ai** – Home customization using AI models  
-- **Canopy** – AI-based physiotherapy CV solution  
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asgharDahri&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgharDahri&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
 ## 🔗 Connect With Me  
 - **LinkedIn:** https://www.linkedin.com/in/ghulam-asghar-dahri-7300b3192/  
 - **Portfolio:** https://khudi.ai | https://zehenify.com | https://homgpt.ai  
