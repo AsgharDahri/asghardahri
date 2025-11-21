@@ -1,95 +1,79 @@
-<h1 align="center">Hi, I'm Ghulam Asghar 👋</h1>
-
+<h1 align="center">Hi, I'm Ghulam Asghar Dahri👋</h1>
 <p align="center">
-  I build scalable backend systems, AI integrations, and full-stack applications that solve real-world problems.  
-  Most of my work is hands-on: real code, real APIs, and production-ready setups for apps, automation, payments, and AI systems.
+  Lead Full Stack Engineer • AI Voice & Automation Expert • Scalable SaaS Architect  
 </p>
 
 ---
 
-## 🔥 What I Work On
-- AI-driven calling apps (Bland AI, workflows, call processing)
-- Real-time communication systems using Socket.io
-- Full-stack web apps using Vue 3, Node.js, Express.js
-- Database systems: PostgreSQL, MongoDB, MySQL
-- Payment integrations (Stripe embedded forms & webhooks)
-- Integrations: Google APIs, Zoho Books, Meta, TikTok, HubSpot
-- Backend architecture, DevOps, automation flows
-- Clean API design, ORM workflows, data modeling
-- Building modern dashboards & responsive UIs
+## 🚀 About Me
+I’m a full-stack engineer with 4+ years of experience building **AI-driven platforms, scalable SaaS products, and real-time automation systems**.  
+I’ve led engineering teams, built products used by **2000+ live AI agents**, reduced API response times by **80%**, and developed automation systems for businesses in Australia, USA, and the Middle East.
+
+I specialize in **AI Agents (Voice/Text)**, **LLMs**, **high-performance backend systems**, and **complex integrations**.
 
 ---
 
-## 👨‍💻 About Me
-- 💼 Software Engineer (MERN Stack & Backend Specialist)  
-- ⚙️ 5+ years of experience building scalable systems  
-- 🚀 Strong with Vue 3, Node.js, PostgreSQL, MongoDB  
-- 🔌 Integrated 15+ external APIs (Google, Zoho, Stripe, Meta, etc.)  
-- 🌍 Interested in AI assistants, automation, and cloud systems  
-- 📚 Always exploring: RAG, AI agents, real-time systems  
-- ☕ I build, break, fix, ship — repeat  
+## 🔥 What I Do
+- Build **AI Voice & Text Agents** (inbound/outbound), RAG pipelines, and custom LLM integrations  
+- Architect & lead development of **scalable SaaS** used by thousands of real-time agents  
+- Optimize APIs, DB queries, memory usage & concurrency for high-performance systems  
+- Full-stack development using **Node.js, Spring Boot, Vue.js, React.js**  
+- Integrate Stripe, Zoho, Twilio, Blockchain custodians (Bitgo, Coinbase), Google APIs  
+- Design team processes: SPM, SDLC, productivity systems, code quality workflows  
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 💼 Professional Experience
 
-**Languages & Frameworks**
-- JavaScript, TypeScript  
-- Node.js, Express.js  
-- Vue 3, Vuetify, React  
+### **Lead Full Stack Developer — Remap AI (Australia)**
+- Built and scaled AI Voice & Text Agent systems powering 2000+ live agents  
+- Integrated LLMs, embeddings, image generation, and custom knowledge bases  
+- Designed team structure, SPM processes, and full SDLC for a million-dollar product  
 
-**Databases**
-- PostgreSQL, MySQL, MongoDB, Amazon Redshift, Snowflake  
+### **Software Engineer — Plutus 21 Capital (USA)**
+- Worked on real-time blockchain trading engine  
+- Reduced API calls **from 80 → 5** and response times **64s → 10s**  
+- Optimized DB transactions, eliminated memory leaks, improved concurrency  
+- Integrated blockchain custodians: Bitgo, Coinbase, etc.
 
-**Cloud & DevOps**
-- Docker, Linux, Nginx, PM2  
+### **CTO (Self-Employed) — homGPT.ai**
+- Built AI-powered home customization platform  
+- Integrated payments, LLMs, and full product architecture  
 
-**Tools**
-- Stripe, Zoho Books/CRM, Google APIs  
-- PgAdmin, Postman, GitHub, MySQL Workbench  
-- Analytics integrations (Google Analytics, Meta, TikTok)  
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Java, JavaScript, Python  
+**Frameworks:** Spring Boot, Node.js, Express, Vue.js, React, LangChain  
+**Databases:** PostgreSQL, MySQL, MongoDB, Firestore  
+**Cloud / DevOps:** AWS (EC2, S3), Azure, Firebase, Docker, CI/CD, GitHub Actions  
+**AI Automations:** Zapier, Make, n8n, Power Automate  
+**Integrations:** Stripe, Twilio, Zoho, Google Services, Pipedrive, GHL, Salla  
+**Architecture:** Monolith, SOA, Microservices  
 
 ---
 
 ## 📌 Featured Projects
-
-### 🚀 AI Calling System  
-Production-grade intelligent calling system using Bland AI, Vue 3 frontend, and Express.js backend.
-
-### 💳 Stripe Embedded Payments  
-Custom Stripe payment flow with webhooks + credits logic + full Vue 3 UI.
-
-### 📊 Zoho Books Integration  
-OAuth + syncing + data pipelines with Node.js.
-
-### 🧠 Real-Time Notifications  
-Socket.io dynamic topics (`topic/{userId}`) with scalable architecture.
-
-*(Replace these with repo links once added)*
+- **khudi.ai** – AI platform for content creation  
+- **zehenify.com** – AI tool for psychiatric assessment assistance  
+- **homGPT.ai** – Home customization using AI models  
+- **Canopy** – AI-based physiotherapy CV solution  
 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" height="160" />
-</p>
-
----
-
-## 🎖 Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asgharDahri&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgharDahri&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me  
-- LinkedIn: *your-linkedin*  
-- Email: *your-email*  
-- Portfolio (optional)
+- **LinkedIn:** https://www.linkedin.com/in/ghulam-asghar-dahri-7300b3192/  
+- **Portfolio:** https://khudi.ai | https://zehenify.com | https://homgpt.ai  
+- **GitHub:** https://github.com/asgharDahri  
+- **Email:** gasghar134@gmail.com
 
 ---
-
