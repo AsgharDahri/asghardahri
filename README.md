@@ -5,7 +5,9 @@
 
 ---
 I’m a full-stack engineer with 4+ years of experience building **AI-driven platforms, scalable SaaS products, and real-time automation systems**. specializing in **AI Agents (Voice/Text)**, **LLMs**, **high-performance backend systems**, and **complex integrations**.
-Two top products that i have delivered this year: https://useprivate.ai/ https://busi.chat/
+Build & Led two flagship AI platforms in 2024-25 for RemapAI: 
+https://useprivate.ai/ 
+https://busi.chat/
 
 
 ## 🛠 Tech Stack
@@ -25,4 +27,3 @@ Two top products that i have delivered this year: https://useprivate.ai/ https:/
 - **Email:** gasghar134@gmail.com
 - **Phone:** +923003689698
 
----
