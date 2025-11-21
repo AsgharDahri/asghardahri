@@ -23,25 +23,6 @@ I specialize in **AI Agents (Voice/Text)**, **LLMs**, **high-performance backend
 
 ---
 
-## 💼 Professional Experience
-
-### **Lead Full Stack Developer — Remap AI (Australia)**
-- Built and scaled AI Voice & Text Agent systems powering 2000+ live agents  
-- Integrated LLMs, embeddings, image generation, and custom knowledge bases  
-- Designed team structure, SPM processes, and full SDLC for a million-dollar product  
-
-### **Software Engineer — Plutus 21 Capital (USA)**
-- Worked on real-time blockchain trading engine  
-- Reduced API calls **from 80 → 5** and response times **64s → 10s**  
-- Optimized DB transactions, eliminated memory leaks, improved concurrency  
-- Integrated blockchain custodians: Bitgo, Coinbase, etc.
-
-### **CTO (Self-Employed) — homGPT.ai**
-- Built AI-powered home customization platform  
-- Integrated payments, LLMs, and full product architecture  
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:** Java, JavaScript, Python  
