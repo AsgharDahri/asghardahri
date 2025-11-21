@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ghulam Asghar Dahri👋</h1>
 <p align="center">
-  Lead Full Stack Engineer • Conversation AI & Automation Expert • Building Scalable SaaS For Founders  
+  Lead Full Stack Engineer • Conversation AI Agents & Automation Expert • Building Scalable SaaS For Founders  
 </p>
 
 ---
@@ -10,7 +10,7 @@ https://useprivate.ai/
 https://busi.chat/
 
 
-## 🛠 Tech Stack
+What I work on
 
 **Languages:** Java, JavaScript, Python  
 **Frameworks:** Spring Boot, Node.js, Express, Vue.js, React, LangChain  
